@@ -1,0 +1,17 @@
+body{
+    color:black;
+    background: linen;
+}
+
+body {
+    color: rgb(189, 146, 90);
+    background: linen;
+    margin: 10px;
+}
+
+header {
+    border-bottom: solid 2px rgb(219, 159, 109);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(209, 166, 100);
+}
